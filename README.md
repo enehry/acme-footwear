@@ -193,7 +193,6 @@ acme-footwear/
 │           desktop_home.png, mobile_home.png...
 ```
 
-
 ## 📋 Technical Implementation Notes
 
 - **Semantic HTML Only**: Use appropriate tags avoid using `div` for main layout elements.
